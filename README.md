@@ -1,10 +1,10 @@
 # Computer_Vision_and_Pattern_Recognition_Code
 Repository where I put all the code seen in the lecture Computer Vision and Pattern Recognition, including projects, divided by arguments
 
-# Zoom in - zoom out folder:
+## Zoom in - zoom out folder:
 Contains code for basic transformations of an image: zoom and shrink an image
 
-# Transformation assignment:
+## Transformation assignment:
 This is the first assignment of the course: 
 - Write a program that rotates a grayscale image about its centre, using the **decomposition of the rotation into a product of 3 shears**
 - For the implementation of each of the three shears, use one-dimensional linear interpolation in the direction of the shear.
